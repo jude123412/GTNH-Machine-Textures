@@ -4,6 +4,6 @@
     "frames": [7, 6, 5, 4, 3, 2, 1, 0, 0, 1, 2, 3, 4, 5, 6, 7, 15, 14, 13, 11, 10, 9, 8, 8, 9, 10, 11, 12, 13, 14, 15]
    },
   "myctmlib": {
-    "connection": "miscutils:textures/blocks/metro/TEXTURE_ORGANIC_PANEL_A_GLOWING_ctm"
+    "connection": "gregtech:textures/blocks/iconsets/MATTER_GENERATION_COIL_ctm"
   }
 }
