@@ -1,5 +1,8 @@
 {
-    "animation": {"frametime": 2},
+    "animation": {
+        "interpolate": true,
+        "frametime": 10
+    },
     "myctmlib": {
         "connection": "gregtech:iconsets/MACHINE_COIL_HYPOGEN_BACKGROUND_ctm"
     }
