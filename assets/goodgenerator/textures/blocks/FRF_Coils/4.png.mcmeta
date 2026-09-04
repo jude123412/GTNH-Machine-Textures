@@ -1,8 +1,5 @@
 {
   "animation": {
     "frametime": 1
-    },
-  "myctmlib": {
-    "connection": "goodgenerator:textures/blocks/FRF_Coils/4_ctm.png"
-  }
+    }
 }
